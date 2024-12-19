@@ -8,7 +8,7 @@ Bem-vindo à **Dog Landing Page**, um projeto desenvolvido com foco em design mo
 
 ## 📸 Demonstração
 
-![Demonstração da Dog Landing Page](img/home-background)
+![Demonstração da Dog Landing Page](img/home-background.jpg)
 
 ---
 
