@@ -501,7 +501,7 @@ header nav ul {
 }
 
 section {
-    height: 100vh; /* Cada seção ocupa 100% da altura da janela */
+    min-height: 100vh; /* Cada seção ocupa 100% da altura da janela */
     width: 100%; /* Garantindo que a largura seja de 100% */
     padding: 0 2rem; /* Adicionando algum padding para não colar o conteúdo nas bordas */
     opacity: 0;
